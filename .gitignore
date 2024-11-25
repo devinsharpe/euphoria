@@ -1,6 +1,7 @@
 **/*.rs.bk
 **/*.beam
 /target/
+**/build/
 /tmp
 .idea/
 .idea/*
